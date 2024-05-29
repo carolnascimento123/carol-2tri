@@ -1,11 +1,28 @@
-.imagem { 
-    width: 500px;
-    display: flex;
-    padding: 5em 45em 5em;
-
-}
-
-.titulo { 
-    font-size: 100px;
+.imagem {
     text-align: center;
 }
+
+body {
+    background-color: white;
+    color: black;
+}
+.texto1{
+    font-size: 20px;
+}
+.tipos{
+    font-size: 30px;
+    color: black;
+}
+.tipos2{
+    font-size: 30px;
+    color: black;
+}
+.tipos3{
+    font-size: 30px;    
+    color: black;
+}
+.titulo{
+    font-size: 35px;
+    color: black;
+}
+
